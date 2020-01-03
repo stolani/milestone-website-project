@@ -28,6 +28,7 @@ header {
     background:url('../images-icons/hero-image.png');
     background-size: cover;
 }
+
 h1 {
 	padding:60px 0 10px 300px;
 	font-family:'Roboto Slab', serif;
@@ -219,3 +220,20 @@ img.project {
 	font-size: 15px;
 
 }
+
+/*********Blog******/
+
+#blog-photo {
+	height:800px;
+    background:url('../images-icons/blog.png');
+    background-size: cover;
+
+}
+#blog-heading {
+	text-align: center;
+	
+}
+
+
+
+
